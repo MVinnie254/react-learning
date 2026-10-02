@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <h1>My Online Shop</h1>
+      <h1>My Online Shop - Version 2</h1>
       <p>Welcome to my store</p>
     </header>
   );
